@@ -8,4 +8,4 @@ The goal of this assignment was to create a React app that can handle the follow
 <li>localhost:3000/hello/blue/red: This should display the word "hello" in blue text with a red background. It should work with any other valid word and colors</li>
 <br><h1>Preview:</h1>
 <br><br>
-<img src="https://github.com/Taylor-Klar/To-Do-List-React/blob/main/To%20Do%20List.png">
+<img src="https://github.com/Taylor-Klar/Routing-Practice-React/blob/main/Routing%20Practice.png">
